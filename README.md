@@ -1,3 +1,7 @@
+This project is for those who want to learn react with redux.
+
+This project make use of react class based and function based components.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
